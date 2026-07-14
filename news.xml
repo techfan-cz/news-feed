@@ -1,1 +1,26 @@
-<rss></rss>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+
+<channel>
+    <title>TechFan.cz – Google News Feed</title>
+    <link>https://www.techfan.cz/</link>
+    <description>Technologické novinky, recenze, audio, smart zařízení</description>
+    <language>cs</language>
+    <atom:link href="https://techfan-cz.github.io/news-feed/news.xml" rel="self" type="application/rss+xml"/>
+
+    <!-- ČLÁNEK 1: Jak šetřit data v roamingu -->
+    <item>
+        <title>Jak šetřit data v roamingu na dovolené: kompletní průvodce pro rok 2026</title>
+        <link>https://www.techfan.cz/l/new-jak-setrit-data-v-roamingu/</link>
+        <guid isPermaLink="true">https://www.techfan.cz/l/new-jak-setrit-data-v-roamingu/</guid>
+        <pubDate>Tue, 14 Jul 2026 12:00:00 +0200</pubDate>
+        <media:content url="https://f3d071b5fb.clvaw-cdnwnd.com/939e9543a02461e45701dd0cd3f08a21/200001980-290be290c1/450/3.webp?ph=f3d071b5fb" type="image/webp"/>
+        <description><![CDATA[
+            Kompletní průvodce, jak šetřit mobilní data v roamingu během dovolené v roce 2026.
+        ]]></description>
+    </item>
+
+</channel>
+</rss>
